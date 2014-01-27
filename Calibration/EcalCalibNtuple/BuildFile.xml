@@ -1,0 +1,8 @@
+<use   name="root"/>
+<use   name="rootcore"/>
+<use   name="PhysicsTools/NtupleUtils"/>
+<use   name="PhysicsTools/MiBiCommonPAT"/>
+
+<export>
+  <lib   name="CalibrationEcalCalibNtuple"/>
+</export>
